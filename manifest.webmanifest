@@ -1,0 +1,25 @@
+{
+  "name": "Edwards Family Budget",
+  "short_name": "EFB Budget",
+  "description": "Private household finance workspace for the Edwards family.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1728",
+  "theme_color": "#13264b",
+  "icons": [
+    {
+      "src": "assets/efb-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/efb-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
